@@ -1,0 +1,13 @@
+---
+permalink: events/concept_understand_more_about_events.html
+sidebar: sidebar
+keywords: understand, more, events
+summary: "Understanding the concepts about events helps you to manage your clusters and cluster objects efficiently and to define alerts appropriately."
+---
+= Understand more about events
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Understanding the concepts about events helps you to manage your clusters and cluster objects efficiently and to define alerts appropriately.
+// 2025-6-11, OTHERDOC-133
