@@ -25,7 +25,7 @@ You can update OpenJDK releases within release families. For example, you can up
 For example, download `jdk-11.0.18_windows-x64_bin.zip from https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html`.
 +
 [NOTE]
- An Oracle account is required to download the file. If you do not have an Oracle account, go to link:https://login.oracle.com/mysso/signon.jsp?request_id=007[Oracle account sign in] page to create one. 
+ An Oracle account is required to download the file. If you do not have an Oracle account, go to link:https://signon.oracle.com/signin[Oracle account sign in^] page to create one. 
 
 
 . Use the Windows Services console to stop the following Unified Manager services:
